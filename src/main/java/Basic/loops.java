@@ -6,7 +6,7 @@ public class loops {
 		// TODO Auto-generated method stub
 		for(int i=0;i<5;i++)  //row
 		{	//i=0,i=1;i=2,i=3;i=4,i=5
-			for(int j=5;j>=i;j--)  //column
+			for(int j=5;j>i;j--)  //column
 			{
 				System.out.print(" "+j);             
 			}

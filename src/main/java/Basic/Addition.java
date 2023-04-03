@@ -11,8 +11,10 @@ public class Addition {
 		c=a+b;
 		System.out.println(c);
 		
+		//without using third var SOP   a=a+b
 		
-		
+		//for git and git hub steps:
+		// 1.
 	}
 
 }
