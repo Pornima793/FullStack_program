@@ -8,15 +8,6 @@ public class return_type {
 
 
 
-String rev="ganeshmadane"; 
-String strarray1[]=new String[rev.length()]; 
-strarray1=rev.split("");
-System.out.println(strarray1.length); 
-// System.out.println(strarray1[20]); 
-for(int i=strarray1.length-1;i>=0;i--) 
-{ System.out.print(strarray1[i]+" ");
-}
-
 
  firstarray obj=new firstarray(); 
 //int addition=obj.add(50,4); 
@@ -31,5 +22,5 @@ System.out.println(num1);
 
 //ret
 }
-}
+}s
 }
