@@ -7,11 +7,13 @@ public class static_example {
 	{
 		System.out.println("run static methods" + "=" + var);
 		static1.method();  //staic direct call without using var
+		static_example obj = new static_example();
+		obj.method3();  //non static
 	}
 	
 	static {
 		
-		System.out.println("static block...");   // run 1st
+		System.out.println("static block...1");   // run 1st
 	}  
 	
 	public void method3()
