@@ -22,7 +22,7 @@ class outer
 	}
 }
 
-public class outer2
+/*public class outer2
 {
 	
-}
+}*/

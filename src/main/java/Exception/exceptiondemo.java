@@ -10,7 +10,7 @@ public class exceptiondemo {
 			int c;
 			//c=a/b;    
 			int array[]=new int[3];
-			array[4]= 33;
+			//array[4]= 33;
 			int array2[]= {1,2,4,5,6};
 			String str="pornima";
 //			System.out.println(c);
