@@ -1,4 +1,4 @@
-package Basic;
+package Basic_java;
 
 public class static_example {
 	static int var =12;    //only declare class level

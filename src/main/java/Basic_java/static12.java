@@ -1,4 +1,4 @@
-package Basic;
+package Basic_java;
 
 public class static12 {
 	private static int b=99999;

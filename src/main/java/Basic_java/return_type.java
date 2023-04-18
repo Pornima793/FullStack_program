@@ -1,12 +1,13 @@
-package Basic;
+package Basic_java;
 
 public class return_type {
 	
-	int add(int a, int b) {
+	int add(int a, int b)
+	{
 		int sum =a +b;
 		return sum;
-
 	}
+	
     public static void main(String[] args)
     {
     	return_type obj = new return_type();
@@ -16,6 +17,7 @@ public class return_type {
     	
     }
 }
+
 	
 
 

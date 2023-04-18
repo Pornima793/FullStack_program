@@ -1,4 +1,4 @@
-package Basic;
+package Basic_java;
 
 public class static_exam2 {
 
